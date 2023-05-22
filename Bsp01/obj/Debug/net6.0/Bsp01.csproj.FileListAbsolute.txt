@@ -1,0 +1,15 @@
+C:\Users\Reha-TN\Desktop\C#\03-05-2023\Bsp01\bin\Debug\net6.0\Bsp01.exe
+C:\Users\Reha-TN\Desktop\C#\03-05-2023\Bsp01\bin\Debug\net6.0\Bsp01.deps.json
+C:\Users\Reha-TN\Desktop\C#\03-05-2023\Bsp01\bin\Debug\net6.0\Bsp01.runtimeconfig.json
+C:\Users\Reha-TN\Desktop\C#\03-05-2023\Bsp01\bin\Debug\net6.0\Bsp01.dll
+C:\Users\Reha-TN\Desktop\C#\03-05-2023\Bsp01\bin\Debug\net6.0\Bsp01.pdb
+C:\Users\Reha-TN\Desktop\C#\03-05-2023\Bsp01\obj\Debug\net6.0\Bsp01.csproj.AssemblyReference.cache
+C:\Users\Reha-TN\Desktop\C#\03-05-2023\Bsp01\obj\Debug\net6.0\Bsp01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reha-TN\Desktop\C#\03-05-2023\Bsp01\obj\Debug\net6.0\Bsp01.AssemblyInfoInputs.cache
+C:\Users\Reha-TN\Desktop\C#\03-05-2023\Bsp01\obj\Debug\net6.0\Bsp01.AssemblyInfo.cs
+C:\Users\Reha-TN\Desktop\C#\03-05-2023\Bsp01\obj\Debug\net6.0\Bsp01.csproj.CoreCompileInputs.cache
+C:\Users\Reha-TN\Desktop\C#\03-05-2023\Bsp01\obj\Debug\net6.0\Bsp01.dll
+C:\Users\Reha-TN\Desktop\C#\03-05-2023\Bsp01\obj\Debug\net6.0\refint\Bsp01.dll
+C:\Users\Reha-TN\Desktop\C#\03-05-2023\Bsp01\obj\Debug\net6.0\Bsp01.pdb
+C:\Users\Reha-TN\Desktop\C#\03-05-2023\Bsp01\obj\Debug\net6.0\Bsp01.genruntimeconfig.cache
+C:\Users\Reha-TN\Desktop\C#\03-05-2023\Bsp01\obj\Debug\net6.0\ref\Bsp01.dll
